@@ -32,7 +32,7 @@ This project aims to provide a simple and effective way to predict heart disease
 
 **Getting Started:**
 
-1. Clone the repository: `git clone ,<repo url>`
+1. Clone the repository: `git clone <repo url>`
 
 2. Ensure you have the `heart.csv` dataset in the same directory as your script.
 
